@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Россия 24 (WSVGA)
 https://player.smotrim.ru/iframe/stream/live_id/21
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Общественные",Россия 1 (HD)
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
+https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Кинозал",FX (EDTV 576p)
 http://stream01.vnet.am/Fox/mono.m3u8
@@ -11,3 +11,14 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ (HD)
 http://92.242.110.52:9835/udp/238.1.4.4:1234
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery (HD)
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Кинозал",Viasat Kino (EDTV 576p)
+http://81.7.108.21:9000/play/TV1000-DVBC322-sti4400017090089
+#EXTINF:-1 audio-track="ru" tvg-id="tv1000-action-cee" tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="Кинозал",Viasat Kino Action (EDTV 576p)
+http://81.7.108.21:9000/play/TV1000Action-DVBC322-sti4400017090089
+
+#EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русский кинозал",Победа (EDTV 576p)
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
