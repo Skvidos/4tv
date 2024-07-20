@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Россия 24 (WSVGA)
+https://player.smotrim.ru/iframe/stream/live_id/21
+
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Общественные",Россия 1 (HD)
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+
+#EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Кинозал",FX (EDTV 576p)
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png" group-title="Кинозал",FX Life (EDTV 576p)
+http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png" group-title="Развлекательные",ТНТ (HD)
+http://92.242.110.52:9835/udp/238.1.4.4:1234
