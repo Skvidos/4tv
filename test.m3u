@@ -25,6 +25,9 @@ http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
 
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Познавательные",Discovery (HD)
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.it999.ru/img2/675.png" group-title="Познавательные",Моя Планета (HD)
 http://188.113.190.15/219/tracks-v1a1/index.m3u8
 
