@@ -22,6 +22,17 @@ http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 http://dmi3y-tv.ru/hls/CH_TV1000.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION
 http://dmi3y-tv.ru/hls/CH_TV1000ACTION.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://dmi3y-tv.ru/hls/CH_VIASATEXPLORE.m3u8
+
+#EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.it999.ru/img2/675.png" group-title="Познавательные",Моя Планета (HD)
+http://188.113.190.15/219/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="Русский кинозал",Дом Кино (EDTV 576p)
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1 tvg-id="bobior" tvg-logo="https://epgx.site/p/bober.png" group-title="Хобби и увлечения",Бобер (EDTV 576p)
+http://178.212.71.253:8002/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Русский кинозал",Победа (EDTV 576p)
 http://188.113.190.15/85/tracks-v1a1/index.m3u8
