@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Новостные",Россия 24 (WSVGA)
-https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA24.m3u8
 
 #EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
