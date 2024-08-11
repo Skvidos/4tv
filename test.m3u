@@ -31,6 +31,9 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta"tvg-logo="http://epg.it999.ru/img2/675.png" group-title="Познавательные",Моя Планета (HD)
 http://188.113.190.15/219/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мужской
+http://dmi3y-tv.ru/hls/CH_MUZHSKOY.m3u8
+
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://epgx.site/p/domkino.png" group-title="Русский кинозал",Дом Кино (EDTV 576p)
 https://stream01.vnet.am/DomKino/mono.m3u8
 
