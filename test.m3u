@@ -1,8 +1,8 @@
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmi3y-tv.ru/hls/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24 (WSVGA)
+https://player.smotrim.ru/iframe/stream/live_id/21
 
-#EXTINF:0 group-title="National" tvg-id="xabar24" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
-https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
+#EXTINF:-1 tvg-id="24KZ.kz" tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png" group-title="News",24KZ (720p) [Not 24/7]
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="izvestia" tvg-logo="https://epgx.site/p/izvestia.png" group-title="Новостные",Известия (HD)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -13,8 +13,9 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://epgx.site/p/rtvi.png" group-title="Общественные",RTVi (EDTV 576p)
 http://81.7.108.21:9000/play/RTVi-DVBC314-sti4400019110542
 
-#EXTINF:-1 tvg-id="fox" tvg-logo="https://epgx.site/p/fox.png" group-title="Кинозал",FX (EDTV 576p)
-http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.ru" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Entertainment",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+
 #EXTINF:-1 tvg-id="foxlife" tvg-logo="https://epgx.site/p/foxlife.png" group-title="Кинозал",FX Life (EDTV 576p)
 http://81.7.108.21:9000/play/FOXLife-DVBC354-sti4400019110528
 
